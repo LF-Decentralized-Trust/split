@@ -19,7 +19,7 @@ Project-Specific Challenges
 * Firefly, along with other projects like Fabric and Indy, faces significant administrative and engineering challenges during this transition, including renaming repositories, managing workflows, and ensuring seamless integration with existing clients and infrastructure.
 * Pushback from maintainers was noted, particularly around the effort required to adapt to the new organizational structure and naming conventions.
 
-Other Advantages
+Benefits to projects
 
 * Projects will have better stats in LFX Insights, as each org will be one project
 * Delegation of repo creation to the project maintainers
